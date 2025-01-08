@@ -1,0 +1,193 @@
+intro:
+	Bulovka, Horní Libeň 24/5/2027 8:34
+	
+	Dobré ráno, přijde k tobě zdravotní sestra.
+	Kde to jsem? ptáš se.
+	V nemocnici Na Bulovce.
+	A co tady dělám nebo proč tady jsem? ptáš se dál
+	To nevíte pane? Naše země je ve válce s Muslimskou republikou Bavorsko. A vy jste jeden z mála přeživších, kteří přežili bombardování Palmovky napalmovou bombou.
+	Jo! proto jsem tady....  jak dlouho jsem byl v bezvědomí?
+	Tři dny pane, vypadá to pane, že už je vám dobře.... před nemocnicí na vás čeká nějaká osoba....
+
+První rozhodnutí:
+	co budu dělat?
+	-vstanu a půjdu za tou osobou -> (osoba)
+	-budu líný, ještě si poležím -> (postel)
+
+postel:
+	znova si usnul, prospal si celý den a proubouzíš se večer.
+	V ten moment tě probudí úkrutná potřeba jít na záchod... 
+
+	-jít na záchod ->(záchod)
+
+záchod: 
+	úleva.... Oblíkáš se a jdeš za osobou
+	získal si předmět toaletní papír, nikdy nevíš kdy se ti může hodit, třeba ho nikdy nevyužiješ (přidat do batohu "toaletní papír")
+
+	-jít za osobou	->(osoba)
+
+	
+osoba:
+	Dobrý den Pane plukovníku, osloví tě voják asi nadrotmistr, doufám že jste se v pořádku dostal z toho šoku, to co se stalo na Palmovce je fakt strašné....
+	ale abych se představil já jsem nadrotmistr Pavel Kubišta a generální štáb vám, jako rozenému Libeňákovi, přiřadil 104 Prapor mobilní pěchoty a 111 dělostřelecký prapor, který je pod mým velením.
+	určitě se Pane plukovníku ptáte na co? proč? co? kdy? kde?..... Generální štáb vybral právě vás díky vašem znalostím Palmovky a okolí. Vaším úkolem je osvobodit Palmovku od nepřátelské nadvlády.
+	COŽE?? ptáte se udiveně.
+	Ano, bohužel si nepřítel po tom co vybombardoval Dolní Libeň tak si z toho udělal i základnu...
+	Dobrá tedy... odpovíš.
+
+	-přesunout se do velitelského vozidla ->(vozidlo) 
+
+vozidlo:
+	ve velitelském vozidle byla rozložená ofocená mapa Libně z webu mapy.cz (udělat tak aby mapy.cz bylo jen klíčové slovo na odkaz : https://mapy.cz/turisticka?source=ward&id=14955&ds=1&x=14.4622276&y=50.1133493&z=14)
+	a uvařený šalek kávy, asi pro mě,
+
+	-vypít kávu ->(vypito)
+	-nezdržovat se popíjením -> (vozidlo 2) 
+
+Vypito: 
+	šálek kávy nikdy nikoho nezabil a vždy se hodí i v těch nejhorších chvílích jako je válka 
+ 	
+	dopít zbytek -> (vypito 2)
+
+vypito 2: 
+ 	Byl přidán prázdný hrneček do batůžku (přidat hrnecek do batohu)
+
+	-pokračovat ->(vozidlo 3)
+
+vozidlo 2:
+	proč studuju mapu Libně, když znám každý roh jako svoje boty....
+	
+	blbé mapy půjdu ven ->(vozidlo 3)
+vozidlo 3:
+	vyšel jsi z vozu a hned rozkaz. Pane plukovníku dostavte se prosím na předsunuté velení do Libeňské sokolovny tam dostanete další pokyny.
+
+	-vydat se na cestu -> (cesta)
+cesta:
+	Přijelo si pro tebe vojenské vozidlo Dingo nastoupil si do něj, krátká cesta ubíhá rychle, když projíždíš kolem u korábu tak si povšimneš 111. dělostřeleckého praporu skoládající se 
+	z vozidel Dita a Dana a napadla tě jedna taktika kterou využil....
+	
+	-kdo ji využil -> (vietnam)
+vietnam: 
+	Kterou využil vietnamský generál Giáp při bitvě u Dien Bien Phu, kde totálně porazil francouzské vojska.....
+ 
+	-tak jo -> (cesta 2)
+cesta 2: 
+	když si za pět minut dojel před sokolovnu tak si hned vyběhnul a pospíchal do sokola. V ten moment kdy jsi přišel do sokola tak se,jelikož si vypil šálek kávy, ti začalo strašně chtít "na malou"....
+
+	-jsem dospělý chlap to vydržím ->(opravdu)
+	-odskočím si ->(sokolovna)
+opravdu: 
+	po hodině další práce ti explodoval močák..... gg no.
+	
+	-ale neeeee ->(game over) 
+game over:
+	prohráls unlucky
+
+	-ZNOVA!!!! -> (intro)
+	-raději ne -> (intro)
+	-určitě ne -> (udělat nějaký kód který zavře stránku)
+sokolovna:
+	zase na záchodě..... no to je jedno konečně se pustíme do práce
+	vyběhneš po schodech a zajdeš do zbrojírny 
+	
+	-vejít do zbrojírny ->(zbrojírna)
+zbrojírna:
+	ve zbrojírně je mnoho zbraní, nečekaně, můžeš si vybrat co chceš z následující nabídky:
+
+	-pouze granát -> (guerrila)
+	-samopal + granát -> (vojin)
+	-samopal + granát + zásobník navíc -> (generál)
+guerrila:
+	gránat hmmm mňam (přidat granát do batohu)
+	
+	-tak jdem na to ->(bojg)
+vojin:
+	jooooo ratatatatata (přidat samopal a granát do batohu)
+
+	-tak jdem na to ->(bojv)
+generál:
+	joooo ratatatata^2 (přidat samopal, granát a zásobník do batohu)
+
+	-tak jdem na to ->(boj)
+bojg: 
+	ozbrojen, vylezl si z budovy sokola Libeň kde na tebe čekala už tvoje divize tak si zavelel svým jednotkám do boje.
+	Divize se pomalu přibližuje Zenklovou ulicí k Palmovce. Na Elsnicově náměstí dáváš rozkaz půlce svých jednotek aby se odebrali na
+	Palmovku z východu přes Kotlasku. Blížíte se k náměstí Bohumila Hrabala a hned se spustí salva nepřítelského protiútoku.
+
+	-skrýt se ->(ukrytg)
+úkrytg:
+	stihl ses ukrýt za okolní stavbu ale pár tvých mužů to bohužel nestihlo a zaplatili cenou nejvyšší 
+	pokračuje dále jako vojáci při vylodění v Normandii. Překonáváte tramvajové koleje v ulici Na Žertvách.
+	Přicházíte do ulice Heydukova a tam vás překvapí nepřítel s miniganou
+	
+	co udělat? -> (minigung)
+minigung:
+	hodíš po něm svůj jediinej granát a zachráníš tím den (odebrat granát z batohu)
+	boj pokračuje vybojujete ulici Heydukovu ale v ten moment když vykoukneš na ulici Novákových tak tam vidíš celou nepřátelskou jednotku.¨
+	ale jelikož nemáš zbraň tak tě zabijou...
+
+	ale neeee -> (game over)
+bojv: 
+	ozbrojen, vylezl si z budovy sokola Libeň kde na tebe čekala už tvoje divize tak si zavelel svým jednotkám do boje.
+	Divize se pomalu přibližuje Zenklovou ulicí k Palmovce. Na Elsnicově náměstí dáváš rozkaz půlce svých jednotek aby se odebrali na
+	Palmovku z východu přes Kotlasku. Blížíte se k náměstí Bohumila Hrabala a hned se spustí salva nepřítelského protiútoku.
+
+	-skrýt se ->(ukrytv)
+úkrytv:
+	stihl ses ukrýt za okolní stavbu ale pár tvých mužů to bohužel nestihlo a zaplatili cenou nejvyšší 
+	pokračuje dále jako vojáci při vylodění v Normandii. Překonáváte tramvajové koleje v ulici Na Žertvách.
+	Přicházíte do ulice Heydukova a tam vás překvapí nepřítel s miniganou
+	
+	co udělat? -> (minigunv)
+minigunv:
+	hodíš po něm svůj jediinej granát a zachráníš tím den (odebrat granát z batohu)
+	boj pokračuje vybojujete ulici Heydukovu ale v ten moment když vykoukneš na ulici Novákových tak tam vidíš celou nepřátelskou jednotku.¨
+	rychle se chopíš samopalu a postřílíš je. Ulice Novákových dobyta! (odebrat samopal z batohu)
+
+	-pokračujem  pokračujem -> (Heydukovav)
+
+Heydukovav:
+	pokračuješ dál Heydukovou na jih a pak na Sokolovské se stane ta samá věc ale bylo jich dvakrát víc jak předtím na Novákových.
+	jseš zastřelen jelikož ti došly náboje
+	
+	-ale neeee -> (game over)
+  boj: 
+	ozbrojen, vylezl si z budovy sokola Libeň kde na tebe čekala už tvoje divize tak si zavelel svým jednotkám do boje.
+	Divize se pomalu přibližuje Zenklovou ulicí k Palmovce. Na Elsnicově náměstí dáváš rozkaz půlce svých jednotek aby se odebrali na
+	Palmovku z východu přes Kotlasku. Blížíte se k náměstí Bohumila Hrabala a hned se spustí salva nepřítelského protiútoku.
+
+	-skrýt se ->(ukryt)
+úkryt:
+	stihl ses ukrýt za okolní stavbu ale pár tvých mužů to bohužel nestihlo a zaplatili cenou nejvyšší 
+	pokračuje dále jako vojáci při vylodění v Normandii. Překonáváte tramvajové koleje v ulici Na Žertvách.
+	Přicházíte do ulice Heydukova a tam vás překvapí nepřítel s miniganou
+	
+	co udělat? -> (minigun)
+minigun:
+	hodíš po něm svůj jediinej granát a zachráníš tím den (odebrat granát z batohu)
+	boj pokračuje vybojujete ulici Heydukovu ale v ten moment když vykoukneš na ulici Novákových tak tam vidíš celou nepřátelskou jednotku.¨
+	rychle se chopíš samopalu a postřílíš je. Ulice Novákových dobyta! 
+
+	-pokračujem  pokračujem -> (Heydukova)
+
+Heydukova:
+	pokračuješ dál Heydukovou na jih a pak na Sokolovské se stane ta samá věc ale bylo jich dvakrát víc jak předtím na Novákových.
+	nabiješ další zásobník (odebrat zásobník a samopal z batohu) a postřílíš půlku ale bohužel ti nevystačí náboje a jseš střelen.
+	
+	-neeee ->(artilerija)
+artilerija:
+	předtím než omdlíš máš poslední možnost vyhrát zmáčknout tlačítko co dá rozkaz dělostřelectvu k zahájení palby.
+	co uděláš?
+	
+	-nic ->(game over)
+	-zmáčknout tlačítko ->(pal)
+pal:
+	je to sebevražedná mise ale díky tvému nadání byla osvobozena Dolní Libeň od nepřátel stal ses společně se svými muži národním hrdinou.
+	
+	-konec -> (outro)
+outro:
+	díky za hraní této textové adventury doufám že se ti aspoň trochu líbila.
+	Školní úkol Alexandre Basseville Leden 2025
+	
+	-znova! ->(intro)
+	-konec ->(zavřít tuto stránku v prohlížeči)

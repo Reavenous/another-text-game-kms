@@ -1,0 +1,90 @@
+$primary-color: #2a2a2a; // Temná barva pozadí
+$secondary-color: #f4f4f4; // Světlá barva textu
+$accent-color: #d72638; // Barva pro tlačítka
+$highlight-color: #50c4b2; // Světlá barva pro pozadí a interaktivní prvky
+
+// Základní styl pro body
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, $primary-color, $highlight-color); // Přechod pro pozadí
+  color: $secondary-color;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background-size: cover;
+}
+
+// Kontajner pro hru
+#game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.6); // Poloprůhledné pozadí pro lepší kontrast
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  max-width: 800px;
+  width: 100%;
+}
+
+// Styl pro text příběhu
+#game-text {
+  max-width: 100%;
+  text-align: left;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+// Styl pro tlačítka
+#game-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+button {
+  padding: 12px 25px;
+  background-color: $accent-color;
+  color: $secondary-color;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.1em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: darken($accent-color, 10%); // Tmavší odstín při hover
+  }
+
+  &:active {
+    background-color: darken($accent-color, 15%); // Ještě tmavší při kliknutí
+  }
+}
+
+// Styl pro inventář
+#inventory {
+  margin-top: 30px;
+  background-color: darken($primary-color, 10%);
+  padding: 15px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+#inventory h3 {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+
+#inventory-list {
+  list-style-type: none;
+}
+
+#inventory-list li {
+  font-size: 1.1em;
+  padding: 5px 0;
+}
