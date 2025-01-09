@@ -78,7 +78,7 @@ function osoba() {
 
 function vozidlo() {
   showStory(
-    `ve velitelském vozidle byla rozložená ofocená mapa Libně z webu mapy.cz (udělat tak aby mapy.cz bylo jen klíčové slovo na odkaz : https://mapy.cz/turisticka?source=ward&id=14955&ds=1&x=14.4622276&y=50.1133493&z=14)
+    `ve velitelském vozidle byla rozložená ofocená mapa Libně z webu mapy.cz
 	a uvařený šalek kávy, asi pro mě`,
     [
       { text: "Vypít kávu", action: vypito },
